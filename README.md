@@ -1,2 +1,12 @@
-# LinguaMate-Bot
-Бот для сервиса LinguaMate (linguamate.ru)
+# LinguaMate Quiz Bot
+
+Телеграм-бот для прохождения квиза по японскому языку.
+
+## Команды:
+
+/start — запуск бота  
+/quiz — начать квиз  
+/stats — посмотреть последний результат  
+
+Бот доступен по ссылке:
+https://t.me/linguamatesupbot
